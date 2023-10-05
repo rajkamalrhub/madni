@@ -5,5 +5,5 @@ The repository contains the various resources associated with the MADNI research
 
 <img src="/Images/System_design.png" alt="" title="MADNI System design" />
 
-# Demo
+# Final Realtime Demo
 <video style="width:100%" controls src="/Media/MADNI_Demo.mp4" type="video/mp4" />
