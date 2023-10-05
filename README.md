@@ -7,3 +7,4 @@ The repository contains the various resources associated with the MADNI research
 
 # Final Realtime Demo
 <video style="width:100%" controls src="/Media/MADNI_Demo.mp4" type="video/mp4" />
+https://github.com/rajkamalrhub/madni/assets/136252121/47f5d152-e5ab-46cf-b07b-1db2524a9145
