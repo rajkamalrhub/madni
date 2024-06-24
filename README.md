@@ -17,5 +17,14 @@ https://github.com/rajkamalrhub/madni/assets/52107656/abf65616-54c3-40af-8917-ea
 # Object detection and Facial recognition
 https://github.com/rajkamalrhub/madni/assets/136252121/47f5d152-e5ab-46cf-b07b-1db2524a9145
 
+# MAD-STORM - Climate Sensing
+Maneuverable Autonomous Drone with Sensing Technologies for Observing Rainfall and Meteorology in Northern Ireland. The accepted paper is presented at "IEEE 35th Irish Signals and Systems Conference, ISSC 2024" in Ulster Univerisity, Belfast.
+http://adrianmoore.net/websites/ISSC2024/010..pdf
+
+https://github.com/rajkamalrhub/madni/assets/52107656/54f45578-f1cb-498b-8048-ab1bf3c9de8a
+
+# Follow Us at
+https://www.ulster.ac.uk/research/topic/engineering/afmm/projects/madni
+![image](https://github.com/rajkamalrhub/madni/assets/52107656/9a19ac02-b495-41cf-bad4-3b578ab41a52)
 
 
