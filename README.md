@@ -17,6 +17,12 @@ https://github.com/rajkamalrhub/madni/assets/52107656/abf65616-54c3-40af-8917-ea
 # Object detection and Facial recognition
 https://github.com/rajkamalrhub/madni/assets/136252121/47f5d152-e5ab-46cf-b07b-1db2524a9145
 
+# MADNI Modelling
+The MADNI digital twin has been created and simulated through a state space model on simulink with an LQR controller and observer to test capabilies and develop an accurate system.
+</p>
+
+<img src="/Images/03_LQRSSModel.png" alt="" title="MADNI System Model on Simulink" />
+
 # MAD-STORM - Climate Sensing
 Maneuverable Autonomous Drone with Sensing Technologies for Observing Rainfall and Meteorology in Northern Ireland. The accepted paper is presented at "IEEE 35th Irish Signals and Systems Conference, ISSC 2024" in Ulster Univerisity, Belfast.
 http://adrianmoore.net/websites/ISSC2024/010..pdf
